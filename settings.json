@@ -5,9 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
+  "server": {theunstableserver1.aternos.me:51338
     "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "port":  51338,
     "version": "",
     "try-creative": false
   },
